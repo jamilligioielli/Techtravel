@@ -1,4 +1,7 @@
 # Techtravel
+
+<img width="400px" align="left" src="https://imgur.com/5sN4CFU" />
+
 <h2>Projeto de jogo - 1o ano do técnico</h2>
 
 Desenvolvido em 2019, este projeto possuia como objetivo o fechamento das disciplinas técnicas do primeiro ano do ensino médio no IFSP-SPO. 
