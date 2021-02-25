@@ -1,6 +1,6 @@
 # Techtravel
 
-<div> <img width="400px" align="center" src= "https://i.imgur.com/5sN4CFU.png" /> </div>
+<div> <img width="600px" align="center" src= "https://i.imgur.com/5sN4CFU.png" /> </div>
 
 <h2>Projeto de jogo - 1o ano do técnico</h2>
 
